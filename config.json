@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorcalidate",
+        "uuid": 23497565,
+        "checksum": "ykt6ss"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
